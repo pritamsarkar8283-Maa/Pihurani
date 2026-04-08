@@ -1,5 +1,4 @@
-# Pihurani
-<!DOCTYPE html>
+ # Pihurani 
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -170,7 +169,7 @@ function goNext() {
 }
 
 /* Typing Effect */
-const message = "🐾 ma da ladle meawwwwwwwww gp gp gp 🐾 💖";
+const message = "🐾 ma da ladle meaww gp gp gp 🐾 💖";
 let i = 0;
 
 function startTyping() {
